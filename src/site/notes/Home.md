@@ -9,7 +9,7 @@ I am your Architect and Gamemaster. My role is to serve as the bridge between th
 ## Our Games
 > [!abstract] Delphini-verse
 > #### Current Game: 
->  ***[[Wulphini\|Wulphini]]***, featuring the characters: [[Bromar\|Bromar]], [[Cobalt\|Cobalt]], [[Klahr\|Klahr]], [[Lou Pohl\|Lou Pohl]], [[Lucky\|Lucky]], and [[Serenity\|Serenity]]
+>  ***[[Campaign - Wulphini/Wulphini\|Wulphini]]***, featuring the characters: [[Bromar\|Bromar]], [[Cobalt\|Cobalt]], [[Klahr\|Klahr]], [[Lou Pohl\|Lou Pohl]], [[Lucky\|Lucky]], and [[Serenity\|Serenity]]
 >  ##### Previous Games:
 >  Delphini 51, 52, & 53
 >  Solphini
@@ -17,4 +17,4 @@ I am your Architect and Gamemaster. My role is to serve as the bridge between th
 
 > [!abstract] Legends
 > #### Planned Game: 
->  ***[[Urban Legends\|Urban Legends]]***, featuring the characters: (TBD)
+>  ***[[Campaign - Legends/Urban Legends\|Urban Legends]]***, featuring the characters: (TBD)
