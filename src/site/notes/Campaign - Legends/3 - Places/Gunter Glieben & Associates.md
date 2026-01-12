@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/3-places/gunter-glieben-and-associates/","tags":["places"],"created":"2025-12-04T07:24:19.123-05:00","updated":"2026-01-04T16:45:02.074-05:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/3-places/gunter-glieben-and-associates/","tags":["places"],"created":"2025-12-04T07:24:19.123-05:00","updated":"2026-01-08T14:31:14.664-05:00"}
 ---
 
 # Gunter Glieben & Associates
@@ -40,3 +40,4 @@ The old Church Hill Cemetery, originally established in 1886 was once a six acre
 
 In 1924, a suspicious fire destroyed most of the church.   Community leaders suspected the tragedy was caused by black witches that were thought to be digging up pandemic victims for use in evil, dark magic.  The church was rebuilt a few miles away, along with a new, larger, cemetery.
 
+![[_Map.base#GGA]]
