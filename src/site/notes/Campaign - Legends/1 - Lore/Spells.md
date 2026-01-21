@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/1-lore/spells/","created":"2025-12-20T18:23:07.144-05:00","updated":"2026-01-16T20:44:27.383-05:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/1-lore/spells/","created":"2025-12-20T18:23:07.144-05:00","updated":"2026-01-18T01:54:46.547-05:00"}
 ---
 
 ### Active Magic
@@ -27,9 +27,7 @@ A Charm is a type of magic that acts directly upon a willing creature, through i
 A Ward is a type of magic that is imbued into an object or on a static area that triggers a spell effect when the proper conditions apply.  Untriggered wards are still Active Magic.  Dormant wards will not trigger properly, or at all.  The triggered portion of the ward can be a separate spell entirely, and can be of any type: charm, curse, spell, or even another ward.
 
 ### Curses
-A curse is a type of magic that acts directly upon a creature, through its [[Aura\|Aura]], without their consent.  There are a lot of verbs used to describe various methods of craft spells: brew, stir, cook, cast, weave, etc.  The word for crafting and casting a curse is always the same. It's always known as "*twisting*" a curse.  This reflects the malignant nature of curses, and the way they befoul and distort the "proper" use of magic.  Curses are always black magic. Twisting a curse taints your soul and adds [[# Heading
-
-]] to your aura.
+A curse is a type of magic that acts directly upon a creature, through its [[Aura\|Aura]], without their consent.  There are a lot of verbs used to describe various methods of craft spells: brew, stir, cook, cast, weave, etc.  The word for crafting and casting a curse is always the same. It's always known as "*twisting*" a curse.  This reflects the malignant nature of curses, and the way they befoul and distort the "proper" use of magic.  Curses are always black magic. Twisting a curse taints your soul and adds [[smut\|smut]] to your aura.
 
 ### Spells
 A spell is essentially anything that isn't clearly one of the above three types.  Usually spells are magic that affect an inanimate object or location.  Spells can be beneficial, neutral, harmful, or even lethal.  
