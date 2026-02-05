@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-wulphini/wulphini/","created":"2026-01-04T17:46:08.195-05:00","updated":"2026-01-12T11:58:18.926-05:00"}
+{"dg-publish":true,"permalink":"/campaign-wulphini/wulphini/","created":"2026-01-04T17:46:08.195-05:00","updated":"2026-02-04T21:23:05.365-05:00"}
 ---
 
 # Wulphini
@@ -12,7 +12,8 @@
 ### Session Prep
 > [!column|no-t]
 >> [!blank]
->> Chapter 28
+>> ### [[Campaign - Wulphini/Session Notes/Mission 29\|Mission 29]]
+>> [[Campaign - Wulphini/Session Notes/Mission 28\|Mission 28]]
 >> 
 
 ---
