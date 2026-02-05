@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/mission-29/","created":"2026-02-04T17:28:21.244-05:00","updated":"2026-02-05T01:39:36.946-05:00"}
+{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/mission-29/","created":"2026-02-04T17:28:21.244-05:00","updated":"2026-02-05T01:43:05.400-05:00"}
 ---
 
 
@@ -26,7 +26,7 @@ Your operation is to fly out to station at Jupiter L3.  Another operation is bei
 
 ## Combat Loadouts
 
-> [!column] Loadout \#1
+> [!column] Loadout 1
 >> [!info] Squad Power Armor
 >> 4x Martian BA1008 "Ranger" Power Armor
 >> Armor: Magnitude 300, 3 Layer, 50 Protection
@@ -47,7 +47,7 @@ Your operation is to fly out to station at Jupiter L3.  Another operation is bei
 
 ---
 
-> [!column] Loadout \#2
+> [!column] Loadout 2
 >> [!info] Squad Power Armor
 >> 4x Martian BA1412 "Rampart" Power Armor
 >> Armor: Magnitude 400, 3 Layer, 60 Protection
