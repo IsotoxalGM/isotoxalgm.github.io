@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/mission-29/","created":"2026-02-04T17:28:21.244-05:00","updated":"2026-02-05T01:51:03.043-05:00"}
+{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/mission-29/","created":"2026-02-04T17:28:21.244-05:00","updated":"2026-02-05T01:59:38.757-05:00"}
 ---
 
 
@@ -62,6 +62,8 @@ At the green tick, a 1g braking burn will put you along side the L3 Station in 2
 At the yellow tick, a 4g braking burn will put you at the L3 Station in 1 day.  This is the minimum warning you can give them since Silent Eternity cannot sustain a harder burn long enough with the amount of fuel it can carry.  
 
 It will be up to you to decide how to approach.
+
+![Mission-29-Map.png](/img/user/_meta/_attachments/Mission-29-Map.png)
 
 ## L3 Station Data
 
