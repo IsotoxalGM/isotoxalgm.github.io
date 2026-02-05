@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/mission-29/","created":"2026-02-04T17:28:21.244-05:00","updated":"2026-02-05T01:43:05.400-05:00"}
+{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/mission-29/","created":"2026-02-04T17:28:21.244-05:00","updated":"2026-02-05T01:51:03.043-05:00"}
 ---
 
 
@@ -26,44 +26,31 @@ Your operation is to fly out to station at Jupiter L3.  Another operation is bei
 
 ## Combat Loadouts
 
-> [!column] Loadout 1
->> [!info] Squad Power Armor
->> 4x Martian BA1008 "Ranger" Power Armor
->> Armor: Magnitude 300, 3 Layer, 50 Protection
->> Mobility: Move 8, Rush 18, Sprint 22
->> Integrated Weapon Systems:
->> - Rapid Fire Thermal Rifle: Magnitude 280, Damage 16, Accuracy +20
->> - 12x4 Wasp HEAP Micromissiles: Magnitude 350, Damage 20, Accuracy +40, Fires salvos of 4 per round at 1 to 4 targets.
->> - 30cm Annihilation Blade: Magnitude 440, Damage 10, Penetration +60, 2 Rounds to deploy with 120 seconds of fuel.
->
->> [!note] Combat Bots
->> 2x M38A3 "Grizzly" Armored Combat Bot
->> Armor: Magnitude 360, 3 Layer, 60 Protection
->> Mobility: Move 6, Rush 12, Sprint 16
->> Integrated Weapon Systems:
->> - Grizzly Railgun: Magnitude 350, Damage 14, Penetration +50, Accuracy +30, Phys 10
->> - Grizzly Thermal Beam: Magnitude 300, Damage 15, Penetration +30, Accuracy +20
->> - Grizzly Fission Claws: Magnitude 300, Damage 12, Penetration +50
+##### Loadout 1
+|   Squad Power Armor  |  Combat Bots   |
+| --- | --- |
+|  4x Martian BA1008 "Ranger" Power Armor   |  2x M38A3 "Grizzly" Armored Combat Bot   |
+|  Armor: Magnitude 300, 3 Layer, 50 Protection   | Armor: Magnitude 360, 3 Layer, 60 Protection    |
+|   Mobility: Move 8, Rush 18, Sprint 22   | Mobility: Move 6, Rush 12, Sprint 16    |
+|   Integrated Weapon Systems:  | Integrated Weapon Systems:    |
+|  Rapid Fire Thermal Rifle: Magnitude 280, Damage 16, Accuracy +20   |  Grizzly Railgun: Magnitude 350, Damage 14, Penetration +50, Accuracy +30, Phys 10   |
+|  12x4 Wasp HEAP Micromissiles: Magnitude 350, Damage 20, Accuracy +40, Fires salvos of 4 per round at 1 to 4 targets.   | Grizzly Thermal Beam: Magnitude 300, Damage 15, Penetration +30, Accuracy +20   |
+|  30cm Annihilation Blade: Magnitude 440, Damage 10, Penetration +60, 2 Rounds to deploy with 120 seconds of fuel.   | Grizzly Fission Claws: Magnitude 300, Damage 12, Penetration +50    |
 
----
 
-> [!column] Loadout 2
->> [!info] Squad Power Armor
->> 4x Martian BA1412 "Rampart" Power Armor
->> Armor: Magnitude 400, 3 Layer, 60 Protection
->> Mobility: Move 6.5, Rush 10, Sprint 13
->> Integrated Weapon Systems:
->> - Squad-Linked Thermal Cannon: Magnitude 300, Damage 18, Accuracy +30, Manual or Automatic Operation Modes: In Auto, fires at the tacnet target on the platoon leader's turn in place of your own attack.
->> - 48x4 Wasp Micromissiles: HEAP(Magnitude 350, Damage 20, Accuracy +40), ESAP(Magnitude 500, Damage 4, Accuracy +40), CCAD(Magnitude 240, Damage 10, Accuracy +40, Shock 10, Blast 4m) Fires salvos of 4 per round at 1 to 4 targets.
->
->> [!note] Combat Bots
->> 12x Mk VI Hyena Combat Proxies
->> Armor: Magnitude 260, 2 Layer, 50 Protection
->> Mobility: Move 10, Rush 18, Sprint 24
->> Integrated Weapon Systems:
->> - Pulse Stunner: Magnitude 230, Damage 16, Penetration +20, Accuracy +20, Shock 10
->> - Polyphase Laser: Magnitude 290, Damage 13, Penetration +20, Accuracy +30
->> - Kick: Magnitude 240, Damage 12, Phys 10
+##### Loadout 2
+
+
+|  Squad Power Armor  |  Combat Bots   |
+| --- | --- |
+|  4x Martian BA1412 "Rampart" Power Armor   |  12x Mk VI Hyena Combat Proxies   |
+|  Armor: Magnitude 400, 3 Layer, 60 Protection   |  Armor: Magnitude 260, 2 Layer, 50 Protection   |
+|  Mobility: Move 6.5, Rush 10, Sprint 13   |  Mobility: Move 10, Rush 18, Sprint 24   |
+|  Integrated Weapon Systems:   | Integrated Weapon Systems:    |
+|  Squad-Linked Thermal Cannon: Magnitude 300, Damage 18, Accuracy +30, Manual or Automatic Operation Modes: In Auto, fires at the tacnet target on the platoon leader's turn in place of your own attack.   | Pulse Stunner: Magnitude 230, Damage 16, Penetration +20, Accuracy +20, Shock 10    |
+|  48x4 Wasp Micromissiles: HEAP(Magnitude 350, Damage 20, Accuracy +40), ESAP(Magnitude 500, Damage 4, Accuracy +40), CCAD(Magnitude 240, Damage 10, Accuracy +40, Shock 10, Blast 4m) Fires salvos of 4 per round at 1 to 4 targets.   |  Polyphase Laser: Magnitude 290, Damage 13, Penetration +20, Accuracy +30   |
+|     |  Kick: Magnitude 240, Damage 12, Phys 10   |
+
 
 ## Covert Approach
 The station at Jupiter L3 is extremely isolated.  There is no reason for any ship traffic to head that far in that direction and you can be sure they are watching for approaching drive plumes.
