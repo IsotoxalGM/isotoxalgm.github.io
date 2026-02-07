@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2026-01-04T14:35:55.494-05:00","updated":"2026-02-04T21:20:19.605-05:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2026-01-04T14:35:55.494-05:00","updated":"2026-02-07T12:44:04.056-05:00"}
 ---
 
 
@@ -20,6 +20,8 @@ I am your Architect and Gamemaster. My role is to serve as the bridge between th
 >  Delphini 51, 52, & 53
 >  Solphini
 >  Sinar
+
+---
 
 > [!abstract] Legends
 > #### Planned Game: 
