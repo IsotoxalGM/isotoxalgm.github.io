@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-wulphini/mechanics/combat-changes/","created":"2026-02-12T16:12:44.940-05:00","updated":"2026-02-12T19:16:11.060-05:00"}
+{"dg-publish":true,"permalink":"/campaign-wulphini/mechanics/combat-changes/","created":"2026-02-12T16:12:44.940-05:00","updated":"2026-02-12T19:24:35.692-05:00"}
 ---
 
 
@@ -25,7 +25,7 @@ The five Firmware types are labeled as αPen, βPen, αDmg, βDmg, and Precision
 
 ==Firmware==. Weapons in this era are smart enough to have their performance configured, on the fly as a Muse action.  The quality, or Level, of the Firmware dictates exactly how much the performance changes.  The higher the level, the more impact that Firmware has per Tech Point.  In this example you can see that the weapon has a Level 2 beta-Penetration (βPen), and a Level 1 beta-Damage (βDmg) installed.
 
-==Tech Points==. Weapons that have a total Tech Point stat shown next to Blast and under Lethality.  This is the total number of points that can be distributed between Firmware.  In this example, you can see the weapon has 4 Tech Points.  You could put all 4 in βPen or βDmg, 2 in each, or however you like, as long as the total less than or equal to the weapon's Tech Point total.
+==Tech Points==. Weapons have a total Tech Point stat shown next to Blast and under Lethality.  This is the total number of points that can be distributed between Firmware.  In this example, you can see the weapon has 4 Tech Points.  You could put all 4 in βPen or βDmg, 2 in each, or however you like, as long as the total less than or equal to the weapon's Tech Point total.
 
 Assigning Tech Points to a Firmware multiplies the Level of that Firmware.  In this example, putting 2 Tech Points each into βPen and βDmg means the next attack is augmented with the effects of Level 4 βPen, Level 2 βDmg, and Level 0 in all others.
 
@@ -44,7 +44,7 @@ Assigning Tech Points to a Firmware multiplies the Level of that Firmware.  In t
 
 ==Alpha-Damage (αDmg)== Increases the raw damage gained from Weapon Magnitude. 
 > [!hint]- Math
-> When Weapon Magnitude and Armor Magnitude are equal, the raw damage is equal to the lists Damage stat of the weapon.  As Weapon Magnitude rises above Armor Magnitude, this damage value rises, and vice versa. 
+> When Weapon Magnitude and Armor Magnitude are equal, the raw damage is equal to the listed Damage stat of the weapon.  As Weapon Magnitude rises above Armor Magnitude, this damage value rises, and vice versa. 
 > 
 > αDmg increases the raw damage from Magnitude by 10% per TP at Level 1 and 25% per TP at Level 5.
 
@@ -54,7 +54,7 @@ Assigning Tech Points to a Firmware multiplies the Level of that Firmware.  In t
 > 
 > βDmg adds 0.4 damage per MoS per TP at Level 1 and 1.0 damage per MoS per TP at Level 6.  These values were chosen to make αDmg and βDmg roughly equal in power for 3 MoS Attacks. At lower margins, αDmg is slightly more efficient, but at 4 MoS, βDmg adds about 25% more damage than αDmg would.
 
-==Precision== Reduces the target value of your attack roll to gain a bonus to the attack roll.  Highly skilled combatants can use this Firmware to trade some of there "wasted" accuracy to improve the odds are rolling higher margins.
+==Precision== Reduces the target value of your attack roll to gain a bonus to the attack roll.  Highly skilled combatants can use this Firmware to trade some of their "wasted" accuracy to improve the odds of rolling higher margins.
 > [!hint] Math (WIP)
 
 # Damage Types and Weapon Tech
