@@ -21,13 +21,13 @@ Certain natural materials have gained magical properties over eons of exposure t
 There are four types of crafted spells: Charms, Wards, Curses, and Spells.
 
 ### Charms
-A Charm is a type of magic that acts directly upon a willing creature, through its [[Aura\|Aura]].  Charms is beneficial, or neutral, in nature.  Charms are very rarely harmful, and never lethal.  Even if a creature is "willing" to be hurt, subconscious, self-preservation instincts are enough of a barrier to prevent the charm from invoking properly.
+A Charm is a type of magic that acts directly upon a willing creature, through its [[Campaign - Legends/1 - Lore/Aura\|Aura]].  Charms is beneficial, or neutral, in nature.  Charms are very rarely harmful, and never lethal.  Even if a creature is "willing" to be hurt, subconscious, self-preservation instincts are enough of a barrier to prevent the charm from invoking properly.
 
 ### Wards
 A Ward is a type of magic that is imbued into an object or on a static area that triggers a spell effect when the proper conditions apply.  Untriggered wards are still Active Magic.  Dormant wards will not trigger properly, or at all.  The triggered portion of the ward can be a separate spell entirely, and can be of any type: charm, curse, spell, or even another ward.
 
 ### Curses
-A curse is a type of magic that acts directly upon a creature, through its [[Aura\|Aura]], without their consent.  There are a lot of verbs used to describe various methods of craft spells: brew, stir, cook, cast, weave, etc.  The word for crafting and casting a curse is always the same. It's always known as "*twisting*" a curse.  This reflects the malignant nature of curses, and the way they befoul and distort the "proper" use of magic.  Curses are always black magic. Twisting a curse taints your soul and adds [[smut\|smut]] to your aura.
+A curse is a type of magic that acts directly upon a creature, through its [[Campaign - Legends/1 - Lore/Aura\|Aura]], without their consent.  There are a lot of verbs used to describe various methods of craft spells: brew, stir, cook, cast, weave, etc.  The word for crafting and casting a curse is always the same. It's always known as "*twisting*" a curse.  This reflects the malignant nature of curses, and the way they befoul and distort the "proper" use of magic.  Curses are always black magic. Twisting a curse taints your soul and adds [[smut\|smut]] to your aura.
 
 ### Spells
 A spell is essentially anything that isn't clearly one of the above three types.  Usually spells are magic that affect an inanimate object or location.  Spells can be beneficial, neutral, harmful, or even lethal.  

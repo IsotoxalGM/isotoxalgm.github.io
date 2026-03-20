@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/2-people/benjamin-glieben/","created":"2026-01-04T15:59:58.081-05:00","updated":"2026-01-08T15:52:07.371-05:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/2-people/benjamin-glieben/","created":"2026-01-04T15:59:58.081-05:00","updated":"2026-02-26T22:38:51.192-05:00"}
 ---
 
 
@@ -33,7 +33,7 @@ After losing both legs in a savage rogue vampire attack in 2009, Benny was force
 
 >[!kith] [[Campaign - Legends/2 - People/Eric Rottinghaus\|Eric Rottinghaus]]
 
->[!kith|antagonist] [[Master of the Valley\|Master of the Valley]]
+>[!kith|antagonist] [[Campaign - Legends/2 - People/GM People/Factions/Vampires\|Vampires]]
 
 ### Notes
 > [!abstract] Campaign History

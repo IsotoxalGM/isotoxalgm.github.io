@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/2-people/sam-jabulani/","tags":["places"],"created":"2026-01-06T16:33:44.567-05:00","updated":"2026-01-13T19:34:56.258-05:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/2-people/sam-jabulani/","tags":["places"],"created":"2026-01-06T16:33:44.567-05:00","updated":"2026-02-26T22:38:51.229-05:00"}
 ---
 
 
@@ -25,7 +25,7 @@
 [[Campaign - Legends/3 - Places/Jabulani House\|Jabulani House]], [[Campaign - Legends/3 - Places/Joy of Christ Church\|Joy of Christ Church]], [[Campaign - Legends/3 - Places/Smokey Bones\|Smokey Bones]]
 
 #### Known Affiliations & Organizations
-[[Campaign - Legends/3 - Places/Joy of Christ Church\|Joy of Christ Church]], [[Lycans\|Lycans]], [[Master of the Valley\|Master of the Valley]]
+[[Campaign - Legends/3 - Places/Joy of Christ Church\|Joy of Christ Church]], [[Lycans\|Lycans]], [[Campaign - Legends/2 - People/GM People/Factions/Vampires\|Vampires]]
 
 #### Specialized Training, Talents, and Expertise
 
