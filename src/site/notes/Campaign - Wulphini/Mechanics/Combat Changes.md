@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-wulphini/mechanics/combat-changes/","created":"2026-02-12T16:12:44.940-05:00","updated":"2026-02-12T19:24:35.692-05:00"}
+{"dg-publish":true,"permalink":"/campaign-wulphini/mechanics/combat-changes/","created":"2026-02-12T16:12:44.940-05:00","updated":"2026-03-26T02:54:19.959-04:00"}
 ---
 
 
@@ -83,7 +83,32 @@ The following is a general guideline for how certain weapon technologies are rep
 |Shock    |      |        |         |       |   10   |
 
 # Armor Changes
-The only change to armor is that Protection has been split into values for each Damage Type, and for each layer.
+Armor layer types have been added.  Each type has its own base protection properties. Each armor layer is built from 1 of these types, though certain types have layer restrictions.
+
+Armor layer types cannot be changed, unless the armor has some unique feature that allows such.  This feature is extremely rare.  Most armor will have base layer properties fixed at the time of purchase or construction.
+
+==Armor Bonus==: The first time armor is fitted to a morph, the Armor Bonuses are rolled.  These bonuses apply only to that morph.  If another morph dons that armor for their first time, they get their own unique Armor Bonus rolls for that same armor. 
+
+The Armor Bonus roll is 3d4-3.  The top layer (or only layer for single layer armors) gets two bonuses, rolled separately. These are applied to two different damage types for that layer. The second layer gets 1 bonus.  The third layer has no bonus.
+
+*Exceptional Armor* gets to roll 4d4-3, dropping the lowest roll.
+
+*Perfect Fit Armor* is armor that is nano-forged with a specific morph in mind.  This bonus is always max rolled.
+
+==Armory Reroll==: A professionally-equipped armory can re-roll the Armor Bonuses for a morph, but only 1 time.  This gives you two sets of bonuses to pick from but you must pick a full set, either First Fit or Armory Refit.  When the armory performs the fitting, it rolls its skill check.  For each MoS above 0, you can reroll a 1 in any of the rolled Armor Bonuses.
+
+|Armor Tech    |  Thermal | Puncture | Impact | Shock | Notes |
+| ---          | ---      | ---      | ---    | ---   | ---   |
+|Collective    |   50     |    45    |   45   |  80   |       |
+|Ballistic     |   35     |    60    |   35   |  90   |       |
+|Reflex        |   35     |    35    |   60   |  90   |       |
+|Calescent     |   60     |    35    |   35   |  90   |       |
+|Anti-spall    |   20     |    60    |   60   |  50   | Cannot have a layer beneath  |
+|Abating       |   70     |    25    |   25   |  90   | Must be first layer      |
+
+The majority of armor sold is Collective armor with bonuses intended for Puncture and/or Impact.  Abating armor is very common in industrial applications.  Most EVA suits are Ballistic, with Heavy EVA suits adding a Spall Liner as a second layer.  
+
+==Converting your old armor==: You can choose the armor tech for each layer of all armor you possess with one caveat.  Armor that is part of a set or series, of which you might have access to multiple of (such as Odin Rex or ATREX), the group will need to decide the layer configuration for all armor of that series.
 
 # Injury Changes
 Injury categories will change to 4 types: Minor, Serious, Major, Deadly.  Each has its own Condition penalty.  Your total Condition modifier is the sum of the penalties of the injuries you have.
