@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-wulphini/wulphini/","created":"2026-01-04T17:46:08.195-05:00","updated":"2026-05-27T12:15:34.500-04:00"}
+{"dg-publish":true,"permalink":"/campaign-wulphini/wulphini/","created":"2026-01-04T17:46:08.195-05:00","updated":"2026-05-27T12:15:34.500-04:00","dg-note-properties":{"tags":null}}
 ---
 
 # Wulphini

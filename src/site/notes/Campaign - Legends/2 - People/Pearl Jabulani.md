@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/2-people/pearl-jabulani/","created":"2026-01-06T22:05:41.811-05:00","updated":"2026-01-13T19:34:53.321-05:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/2-people/pearl-jabulani/","created":"2026-01-06T22:05:41.811-05:00","updated":"2026-01-13T19:34:53.321-05:00","dg-note-properties":{"isNPC":true,"cardImage":"pearljabulani.jpg"}}
 ---
 
 

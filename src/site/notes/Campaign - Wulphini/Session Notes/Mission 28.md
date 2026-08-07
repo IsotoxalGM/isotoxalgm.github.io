@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/mission-28/","created":"2026-01-15T16:02:06.077-05:00","updated":"2026-01-15T16:50:37.738-05:00"}
+{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/mission-28/","created":"2026-01-15T16:02:06.077-05:00","updated":"2026-01-15T16:50:37.738-05:00","dg-note-properties":{"tags":null}}
 ---
 
 # Final Phase of Solar Sabotage

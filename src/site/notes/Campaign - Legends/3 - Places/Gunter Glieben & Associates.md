@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/3-places/gunter-glieben-and-associates/","tags":["places"],"created":"2025-12-04T07:24:19.123-05:00","updated":"2026-01-08T14:31:14.664-05:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/3-places/gunter-glieben-and-associates/","tags":["places"],"created":"2025-12-04T07:24:19.123-05:00","updated":"2026-01-08T14:31:14.664-05:00","dg-note-properties":{"coordinates":"44.04013, -123.14591","icon":"landmark","color":"red","pintype":"player","tags":["places"]}}
 ---
 
 # Gunter Glieben & Associates
 
-![GGA-mapLocation.jpg|right|500](/img/user/_meta/_attachments/GGA-mapLocation.jpg)
+![GGA-mapLocation.jpg\|right\|500](/img/user/_meta/_attachments/GGA-mapLocation.jpg)
 
 3590 W 18th Ave, Eugene OR
 
@@ -40,4 +40,41 @@ The old Church Hill Cemetery, originally established in 1886 was once a six acre
 
 In 1924, a suspicious fire destroyed most of the church.   Community leaders suspected the tragedy was caused by black witches that were thought to be digging up pandemic victims for use in evil, dark magic.  The church was rebuilt a few miles away, along with a new, larger, cemetery.
 
-![[_Map.base#GGA]]
+
+```base
+views:
+  - type: map
+    name: Region Map
+    filters:
+      and:
+        - "!coordinates.isEmpty()"
+    order:
+      - file.name
+      - coordinates
+      - color
+      - icon
+    sort:
+      - property: file.name
+        direction: DESC
+    columnSize:
+      note.coordinates: 203
+    coordinates: note.coordinates
+    markerIcon: note.icon
+    markerColor: note.color
+    center: "[44.0634, -123.04779]"
+    defaultZoom: 10
+    mapHeight: 500
+  - type: map
+    name: GGA
+    filters:
+      and:
+        - "!coordinates.isEmpty()"
+    center: "[44.04013, -123.14587]"
+    defaultZoom: 15.1
+    coordinates: note.coordinates
+    markerIcon: note.icon
+    markerColor: note.color
+    mapHeight: 500
+
+```
+

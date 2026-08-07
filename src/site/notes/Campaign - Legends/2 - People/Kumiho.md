@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/2-people/kumiho/","created":"2026-01-08T19:34:04.432-05:00","updated":"2026-02-26T22:38:51.210-05:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/2-people/kumiho/","created":"2026-01-08T19:34:04.432-05:00","updated":"2026-02-26T22:38:51.210-05:00","dg-note-properties":{"isNPC":true,"cardImage":"kumiho.jpg"}}
 ---
 
 

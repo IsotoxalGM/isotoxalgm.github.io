@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-wulphini/mechanics/combat-changes/","created":"2026-02-12T16:12:44.940-05:00","updated":"2026-03-26T02:54:19.959-04:00"}
+{"dg-publish":true,"permalink":"/campaign-wulphini/mechanics/combat-changes/","created":"2026-02-12T16:12:44.940-05:00","updated":"2026-03-26T02:54:19.959-04:00","dg-note-properties":{"tags":null}}
 ---
 
 

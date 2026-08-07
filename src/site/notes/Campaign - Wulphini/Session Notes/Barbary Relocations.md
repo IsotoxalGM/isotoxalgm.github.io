@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/barbary-relocations/","created":"2026-03-26T18:25:37.853-04:00","updated":"2026-03-26T19:00:27.388-04:00"}
+{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/barbary-relocations/","created":"2026-03-26T18:25:37.853-04:00","updated":"2026-03-26T19:00:27.388-04:00","dg-note-properties":{"tags":null}}
 ---
 
 

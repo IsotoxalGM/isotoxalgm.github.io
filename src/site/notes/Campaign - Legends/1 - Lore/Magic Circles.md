@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/1-lore/magic-circles/","created":"2026-03-31T04:37:53.659-04:00","updated":"2026-04-07T01:45:13.243-04:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/1-lore/magic-circles/","created":"2026-03-31T04:37:53.659-04:00","updated":"2026-04-07T01:45:13.243-04:00","dg-note-properties":{"tags":null}}
 ---
 
 

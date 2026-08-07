@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/1-lore/creatures/demons/","created":"2026-01-23T00:22:41.634-05:00","updated":"2026-01-23T01:00:44.580-05:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/1-lore/creatures/demons/","created":"2026-01-23T00:22:41.634-05:00","updated":"2026-01-23T01:00:44.580-05:00","dg-note-properties":{"tags":null}}
 ---
 
 # Demons

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/2-people/benjamin-glieben/","created":"2026-01-04T15:59:58.081-05:00","updated":"2026-02-26T22:38:51.192-05:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/2-people/benjamin-glieben/","created":"2026-01-04T15:59:58.081-05:00","updated":"2026-02-26T22:38:51.192-05:00","dg-note-properties":{"isNPC":true,"cardImage":"bennyglieben.jpg"}}
 ---
 
 

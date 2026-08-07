@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/2-people/malik-walker/","created":"2026-01-08T15:52:45.718-05:00","updated":"2026-01-13T19:34:50.841-05:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/2-people/malik-walker/","created":"2026-01-08T15:52:45.718-05:00","updated":"2026-01-13T19:34:50.841-05:00","dg-note-properties":{"isNPC":true,"cardImage":"malikwalker.jpg"}}
 ---
 
 

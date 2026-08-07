@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/2-people/ben-tillson/","created":"2026-01-06T22:51:20.784-05:00","updated":"2026-01-11T21:49:43.411-05:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/2-people/ben-tillson/","created":"2026-01-06T22:51:20.784-05:00","updated":"2026-01-11T21:49:43.411-05:00","dg-note-properties":{"isNPC":true,"cardImage":"bentillson.jpg"}}
 ---
 
 

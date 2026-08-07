@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/1-lore/creatures/trolls/","created":"2026-01-21T17:28:57.606-05:00","updated":"2026-01-21T18:59:05.175-05:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/1-lore/creatures/trolls/","created":"2026-01-21T17:28:57.606-05:00","updated":"2026-01-21T18:59:05.175-05:00","dg-note-properties":{"tags":null}}
 ---
 
 # The Lesser Trolls of North America
@@ -8,7 +8,7 @@
 
 Lesser trolls are small humanoid creatures that live in small clans of 8 to 12 individuals.  They use no tools and make no shelter but most believe them to be fairly intelligent.  Trolls cannot speak, and usually don't understand speech.  They actually make very little noise at all.  Despite the lack of spoken language, it is clear that they do communicate with each other.  The method of communication is unknown though its generally accepted that magic is involved.  Some people claim to have the ability to "hear" trolls "trade thoughts", suggesting it may be a form of telepathy, though no official research has confirmed this.
 
-![lessertroll.jpg|left](/img/user/_meta/_attachments/lessertroll.jpg)Trolls are most often found in quiet wooded regions near running water though their are exceptions.  Trolls often hide when humans are near but they don't seem to fear human contact.  Trolls seem to choose a section of land as their "home" for a season or two, and stay there throughout, even if there happens to be people nearby.
+![lessertroll.jpg\|left](/img/user/_meta/_attachments/lessertroll.jpg)Trolls are most often found in quiet wooded regions near running water though their are exceptions.  Trolls often hide when humans are near but they don't seem to fear human contact.  Trolls seem to choose a section of land as their "home" for a season or two, and stay there throughout, even if there happens to be people nearby.
 
 In the US and Canada, it's illegal to hunt, trap, lure, and transport trolls.  Any issues with a troll clan must be taken to the Preternatural Animal Society where trained and licensed handlers can assist with a solution.
 

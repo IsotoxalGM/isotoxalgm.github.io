@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/2-people/brian-spencer/","created":"2026-01-06T23:02:11.256-05:00","updated":"2026-01-13T19:34:58.294-05:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/2-people/brian-spencer/","created":"2026-01-06T23:02:11.256-05:00","updated":"2026-01-13T19:34:58.294-05:00","dg-note-properties":{"isNPC":true,"cardImage":"brianspencer.jpg"}}
 ---
 
 

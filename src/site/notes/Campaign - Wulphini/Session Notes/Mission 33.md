@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/mission-33/","created":"2026-05-27T10:30:48.410-04:00","updated":"2026-05-27T12:14:35.643-04:00"}
+{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/mission-33/","created":"2026-05-27T10:30:48.410-04:00","updated":"2026-06-27T23:40:35.039-04:00","dg-note-properties":{"tags":null}}
 ---
 
 
@@ -42,5 +42,9 @@ For now, get yourselves out to our advance team in a small observatory in the Gr
 Once we figure out the crew problem, you'll inject yourselves into the shipyard riding a stealthed sled, not unlike the one you used the first time you stormed a Venusian shipyard.  The sled can only carry a few thousand kg of cargo mass so you won't have your own ship for the heist itself, and only the gear that will fit on the sled.    
 
 Make of list of specialized capital-ship-theft gear you think you might want to have on hand and we'll see what we can do to provide.
+
+240 missiles
+12 tubes
+160
 
 

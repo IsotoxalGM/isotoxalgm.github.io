@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/2-people/aida-jabulani/","created":"2026-01-06T19:26:42.027-05:00","updated":"2026-01-11T21:31:08.425-05:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/2-people/aida-jabulani/","created":"2026-01-06T19:26:42.027-05:00","updated":"2026-01-11T21:31:08.425-05:00","dg-note-properties":{"isNPC":true,"cardImage":"aidajabulani.jpg"}}
 ---
 
 

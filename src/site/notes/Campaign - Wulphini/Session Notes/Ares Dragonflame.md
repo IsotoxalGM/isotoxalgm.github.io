@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/ares-dragonflame/","created":"2026-05-07T17:02:49.370-04:00","updated":"2026-05-07T17:54:10.251-04:00"}
+{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/ares-dragonflame/","created":"2026-05-07T17:02:49.370-04:00","updated":"2026-05-07T17:54:10.251-04:00","dg-note-properties":{"tags":null}}
 ---
 
 

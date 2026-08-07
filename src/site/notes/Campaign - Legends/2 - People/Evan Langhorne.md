@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/2-people/evan-langhorne/","created":"2026-01-08T17:33:40.853-05:00","updated":"2026-01-13T19:34:49.602-05:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/2-people/evan-langhorne/","created":"2026-01-08T17:33:40.853-05:00","updated":"2026-01-13T19:34:49.602-05:00","dg-note-properties":{"isNPC":true,"cardImage":"evanlanghorne.jpg"}}
 ---
 
 

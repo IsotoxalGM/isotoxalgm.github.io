@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/2-people/sam-jabulani/","tags":["places"],"created":"2026-01-06T16:33:44.567-05:00","updated":"2026-02-26T22:38:51.229-05:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/2-people/sam-jabulani/","tags":["places"],"created":"2026-01-06T16:33:44.567-05:00","updated":"2026-02-26T22:38:51.229-05:00","dg-note-properties":{"coordinates":"44.07341, -122.95723","icon":"landmark","color":"red","pintype":"player","tags":["places"],"isNPC":true,"cardImage":"samjabulani.jpg"}}
 ---
 
 

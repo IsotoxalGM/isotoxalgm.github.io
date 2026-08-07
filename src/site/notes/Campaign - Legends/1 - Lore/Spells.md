@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/1-lore/spells/","created":"2025-12-20T18:23:07.144-05:00","updated":"2026-01-18T01:54:46.547-05:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/1-lore/spells/","created":"2025-12-20T18:23:07.144-05:00","updated":"2026-01-18T01:54:46.547-05:00","dg-note-properties":{"tags":null}}
 ---
 
 ### Active Magic

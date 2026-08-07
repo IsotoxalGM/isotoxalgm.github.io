@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/4-mechanics/time-reckoning/","created":"2026-01-29T13:12:04.395-05:00","updated":"2026-01-29T15:31:03.513-05:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/4-mechanics/time-reckoning/","created":"2026-01-29T13:12:04.395-05:00","updated":"2026-01-29T15:31:03.513-05:00","dg-note-properties":{"tags":null}}
 ---
 
 

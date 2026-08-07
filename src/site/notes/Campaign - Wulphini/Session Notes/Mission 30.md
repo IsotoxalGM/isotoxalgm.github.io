@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/mission-30/","created":"2026-02-24T16:10:28.474-05:00","updated":"2026-02-24T16:56:05.815-05:00"}
+{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/mission-30/","created":"2026-02-24T16:10:28.474-05:00","updated":"2026-02-24T16:56:05.815-05:00","dg-note-properties":{}}
 ---
 
 

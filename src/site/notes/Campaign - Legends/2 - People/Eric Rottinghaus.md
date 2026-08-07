@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/2-people/eric-rottinghaus/","created":"2026-01-06T22:33:33.876-05:00","updated":"2026-01-13T19:34:57.121-05:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/2-people/eric-rottinghaus/","created":"2026-01-06T22:33:33.876-05:00","updated":"2026-01-13T19:34:57.121-05:00","dg-note-properties":{"isNPC":true,"cardImage":"ericrottinghaus.jpg"}}
 ---
 
 
