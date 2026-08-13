@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/mission-35/","created":"2026-08-06T19:06:14.996-04:00","updated":"2026-08-06T21:08:55.850-04:00","dg-note-properties":{"tags":null}}
+{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/mission-35/","created":"2026-08-06T19:06:14.996-04:00","updated":"2026-08-13T18:19:31.413-04:00","dg-note-properties":{"tags":null}}
 ---
 
 
@@ -58,7 +58,7 @@ Crystal Prince armor is indistinguishable from heavy security armor without an a
 
 | Light Power Armor          |          |
 | -------------------------- | -------- |
-| Magnitude                  | 260      |
+| Magnitude                  | 280      |
 | Layers (Perfect Fit)       | 3        |
 | Layer 1, reconfigurable as | Complex  |
 | Layer 2, reconfigurable in | 1 Minute |
@@ -72,7 +72,7 @@ Crystal Queen armor is indistinguishable from light powered security armor witho
 
 | Scout/Medium Power Armor    |          |
 | --------------------------- | -------- |
-| Magnitude                   | 280      |
+| Magnitude                   | 300      |
 | Layers (Perfect Fit)        | 3        |
 | Layer 1, reconfigurable as  | Complex  |
 | Layer 2, reconfigurable in  | 1 Minute |
@@ -86,7 +86,7 @@ Crystal King armor appears to be standard medium power armor.  Additionally its 
 
 | Heavy Power Armor          |          |
 | -------------------------- | -------- |
-| Magnitude                  | 300      |
+| Magnitude                  | 320      |
 | Layers (Perfect Fit)       | 3        |
 | Layer 1, reconfigurable as | Complex  |
 | Layer 2, reconfigurable in | 1 Minute |
