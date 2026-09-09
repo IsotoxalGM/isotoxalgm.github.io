@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/armory-mass-production/","created":"2026-08-13T16:12:49.291-04:00","updated":"2026-08-13T18:22:37.980-04:00","dg-note-properties":{"tags":null}}
+{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/armory-mass-production/","created":"2026-08-13T16:12:49.291-04:00","updated":"2026-08-16T00:29:01.276-04:00","dg-note-properties":{"tags":null}}
 ---
 
 
@@ -215,7 +215,7 @@ Medium Security (Uniform)
 | Layers    | 3          |
 | Layer 1   | Calescent  |
 | Layer 2   | Collective |
-| Layer 3   | TBD        | 
+| Layer 3   | Collective        | 
 
 Registered to: 
 Altaya Multinational, Security Department
@@ -249,7 +249,7 @@ Light Military (Uniform)
 | Layers    | 3          |
 | Layer 1   | Calescent  |
 | Layer 2   | Collective |
-| Layer 3   | TBD        | 
+| Layer 3   | Collective        | 
 
 Registered to: 
 Altaya Multinational, Tactical Operations Department
@@ -266,7 +266,7 @@ Light Military (Unmarked, Multispectrum Active Camo)
 | Layers    | 3          |
 | Layer 1   | Calescent  |
 | Layer 2   | Collective |
-| Layer 3   | TBD        | 
+| Layer 3   | Collectice        | 
 
 Registered to: 
 Intentionally Corrupted Metadata 
