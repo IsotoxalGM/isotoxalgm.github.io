@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/mission-38/","created":"2026-09-08T23:03:57.362-04:00","updated":"2026-09-09T00:34:27.678-04:00","dg-note-properties":{"tags":null}}
+{"dg-publish":true,"permalink":"/campaign-wulphini/session-notes/mission-38/","created":"2026-09-08T23:03:57.362-04:00","updated":"2026-09-09T00:52:29.532-04:00","dg-note-properties":{"tags":null}}
 ---
 
 
@@ -19,7 +19,7 @@ A private convoy of three *Portsmouth*-class super-freighters departed from a si
 
 Between Point 2 and Point 3, the convoy drifts.  During this time, the freight company sends a small fleet of haulers (likely out of Pallas) to refill the freighters' store of reaction mass for the upcoming braking burn.
 
-At Point 3, the convoy begins is braking burn, ending at Point 4 near the Trojans where their destination lies.
+At Point 3, the convoy begins its braking burn, ending at Point 4 near the Trojans where their destination lies.
 
 ##### Snow Crash
 
@@ -31,18 +31,24 @@ Silent Eternity has just rescued the crew of a vessel that fell victim to piracy
 
 The rescued crew and the pirate detainees have been transferred to a police cutter coming from Pallas.  This cutter is burning toward Pallas now (Green arrow toward Pallas).  Silent Eternity is drifting along the path of its last intercept with the third pirate vessel (White arrow).
 
+## Begin
+This is where the next session begins.
+
 # More Pirates!
 
 It's at this point in time when the convoy of three super-freighters issue a distress call (from Red dot), indicating an imminent pirate attack.  The distress call states the three vessels are disconnecting from the ore carrier and splitting off into 3 separate vectors.  From this point on we will call the three freighters C1, C2, and C3.
 
 C1, C2, and C3 burn hard to radically alter course, now that they are free of the massive ore carrier.  After a severe course correction, all three cut engines and run as dark as they can.
 
+> [!tip] Snow Crash
+> Snow Crash will alert the crew of these escape vectors as part of a recommended course of action in case of emergency. Firewall doesn't think the crews will be competent enough (or paid enough) to countermand this plan.  We are confident the crews will respond as their systems tell them to.
+
 C2 reports a fast flyby of a small vessel, braking hard for an intercept with C1.  C2 reports being hit by kinetic shells from extreme range, taking only superficial damage.
 
 > [!tip] Snow Crash
-> C2 was not hit by anything. Snow Crash injected false impact reports to hull sensors.
+> C2 doesn't actually see anything and was not hit by anything. Snow Crash injected false impact reports and a phantom contact to ship sensors.
 
-C1 reports they are being boarded.
+C1 will report they are being boarded.
 
 C3 Remains dark.
 > [!tip] Snow Crash
@@ -96,3 +102,5 @@ Silent Eternity is to return to the life boats of C2, or to C1 if the crew of C2
 Silent Eternity comes across once again as the only vessel successfully doing anything about the growing piracy issue in the Bet.
 
 Firewall gains two super-freighter hulls we can use to move the Lekythos and the ice needed to feed its Biome.
+
+==This is the plan.  We all know the saying about plans.  Let's see what *actually* happens.==
